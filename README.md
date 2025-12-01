@@ -18,9 +18,10 @@ There are five phases to this project
 ### Phase 4: Applying Comparison and Logical Operators
 ### Phase 5: Sorting, Filtering, and Limiting Results
 
-### Insights drawn from the queries in the system
-#### Below are some insights retrieved from the system based on the Queries written
 ---
+
+### Insights drawn from the queries in the system
+*Below are some insights retrieved from the system based on the Queries written*
 - *List of books with more than 3 available copies*
 - *Books borrowed but yet to be returned*
 - *Members who registered at the Library before 2022*
