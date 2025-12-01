@@ -10,6 +10,8 @@ There are three active tables in the system. They are:
 - **Members:** keeps records of all members registered
 - **Loans:** tracks the movement of books through loans and returns.
 
+---
+
 ## Project Execution
 There are five phases to this project
 ### Phase 1: Database Setup
@@ -27,6 +29,8 @@ There are five phases to this project
 - *Members who registered at the Library before 2022*
 - *List of distinct book genres available at the Library*
 - *10 Most recent book loan not yet returned*
+
+---
 
 ## Learning Outcome
 Working on this library Database Management system has helped to:
