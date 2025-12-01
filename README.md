@@ -4,10 +4,11 @@ To design, build, and query a structured Library Database using SQL. The databas
 
 ## Tables
 There are three active tables in the system. They are:
-#### Books: Records details of all books in the library catalogue
-#### Members: Keeps records of all members registered
-#### Loans: Tracks the movement of books through loans and returns.
+#### Books: records details of all books in the library catalogue
+#### Members: keeps records of all members registered
+#### Loans: tracks the movement of books through loans and returns.
 
+## Project Execution
 There are five phases to this project
 ### Phase 1: Database Setup
 ### Phase 2: Database Table and Schema Design
