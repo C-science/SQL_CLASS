@@ -20,16 +20,17 @@ There are five phases to this project
 
 ## Insights drawn from the queries in the system
 #### Below are some insights retrieved from the system based on the Queries written
-List of books with more than 3 available copies
-Books borrowed but yet to be returned
-Members who registered at the Library before 2022
-List of distinct book genres available at the Library
-10 Most recent book loan not yet returned
+---
+- *List of books with more than 3 available copies*
+- *Books borrowed but yet to be returned*
+- *Members who registered at the Library before 2022*
+- *List of distinct book genres available at the Library*
+- *10 Most recent book loan not yet returned*
 
 ## Learning Outcome
-Working on this library Database Management system has helped to :
-Understand how SQL databases model real-world systems
-Experience what it means to design, build, and query a schema
-Increase my level of confidence when working with SQL databases and querying them.
+Working on this library Database Management system has helped to:
+- *Understand how SQL databases model real-world systems*
+- *Experience what it means to design, build, and query a schema*
+- *Increase my level of confidence when working with SQL databases and querying them.*
 
 
