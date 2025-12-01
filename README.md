@@ -2,11 +2,13 @@
 ## Goal
 To design, build, and query a structured Library Database using SQL. The database system will track and record the library's members, books, and book loans.
 
+---
+
 ## Tables
 There are three active tables in the system. They are:
-_ **Books:** records details of all books in the library catalogue
-_ **Members:** keeps records of all members registered
-_ **Loans:** tracks the movement of books through loans and returns.
+- **Books:** records details of all books in the library catalogue
+- **Members:** keeps records of all members registered
+- **Loans:** tracks the movement of books through loans and returns.
 
 ## Project Execution
 There are five phases to this project
